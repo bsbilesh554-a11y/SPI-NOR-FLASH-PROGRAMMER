@@ -3,7 +3,7 @@ Author         : B.S. Bilesh
 Organization   : DLithe Internship Project
 Platform       : ESP32 Development Module
 IDE            : Arduino IDE
-Language       : Embedded C (Arduino Framework)
+Language       : Embedded C (Arduino Framework) 
 Hardware Used:
   1. ESP32 Development Module
   2. W25Q32 SPI NOR Flash Memory
