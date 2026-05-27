@@ -14,7 +14,7 @@ Hardware Used:
 It is to be noted that Blynk IoT is used to create dashboards. THis is intyegrated to the existing code by generating an Auth token while creating the dashboards and then creating the virtual pins for the working of the defined fucntions in the code
 
 
-There are 2 programs which has different functions and behave differently
+There are 3 programs which has different functions and behave differently
 
 (*)The file named COMBINEDCODEBLYNKIOT serves as follows
 Description:
@@ -77,6 +77,9 @@ Functions of the buttons called from the Blynk IoT Dashboard:
  * V5 → User Data Input
  * V6 → Full Capacity Test
  * V7 → Over Limit Test
+
+
+The 3rd program named erasecode completely erases the data which is present inside the memory chip
 
 Thank you
  
